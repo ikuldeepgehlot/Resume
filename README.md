@@ -78,23 +78,8 @@ My current focus is on client reporting, data consolidation, dashboarding, and a
 
 ---
 
-## `04 — TELEMETRY` · GitHub Activity
 
-<div align="center">
-
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true)
-
-</div>
-
----
-
-## `05 — THE ROUTE` · Professional Experience
+## `04 — THE ROUTE` · Professional Experience
 
 ### 🟢 Brand-Foundry | Toolbox Media Pvt. Ltd.
 **MIS Backend Operations / Business Automation Analyst**  
@@ -154,7 +139,7 @@ My current focus is on client reporting, data consolidation, dashboarding, and a
 
 ---
 
-## `06 — STACK` · Tools & Technologies
+## `05 — STACK` · Tools & Technologies
 
 <div align="center">
 
@@ -174,7 +159,7 @@ My current focus is on client reporting, data consolidation, dashboarding, and a
 
 ---
 
-## `07 — CURRENT STATUS`
+## `06 — CURRENT STATUS`
 
 - 🔭 **Working on:** Client MIS reporting and business process automation
 - 🌱 **Learning:** Python automation, web-based tools, AI-assisted development, and SaaS prototyping
@@ -183,7 +168,7 @@ My current focus is on client reporting, data consolidation, dashboarding, and a
 
 ---
 
-## `08 — EDUCATION`
+## `07 — EDUCATION`
 
 **Bachelor of Commerce (B.Com)**  
 **GNIIT**
