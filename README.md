@@ -52,6 +52,14 @@ My current focus is on client reporting, data consolidation, dashboarding, and a
 - Included inventory synchronization and cancelled-order cleanup.
 - Simplified recurring daily reporting workflows.
 
+### 🕒 Office Attendance Management System
+**Google Apps Script · Google Sheets · ChatGPT**
+
+- Developed a basic web-based attendance management system for internal office use using Google Apps Script with ChatGPT-assisted development.
+- Implemented employee check-in and check-out functionality with attendance records stored in Google Sheets.
+- Incorporated location-based check-in functionality and an attendance dashboard for tracking employee attendance.
+- Built a lightweight alternative to traditional attendance management platforms for internal office use.
+
 ### 📣 Ads Performance Automation
 **Reporting Automation**
 
